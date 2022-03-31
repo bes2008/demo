@@ -11,7 +11,7 @@
 
     <artifactId>websocketdemo</artifactId>
     <properties>
-        <spring.boot.version>2.2.6.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
         <mybatis.version>3.5.3</mybatis.version>
         <mybatis.spring.version>2.0.3</mybatis.spring.version>
         <mybatis.springboot.version>2.1.1</mybatis.springboot.version>
